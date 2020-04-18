@@ -11,6 +11,7 @@ gem 'bootstrap-sass', '3.3.7'
 gem 'bcrypt',         '3.1.12'
 gem 'faker',          '1.7.3'
 gem 'puma', '~> 4.1'
+gem 'rails-controller-testing'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
