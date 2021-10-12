@@ -10,7 +10,7 @@ gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
 gem 'bootstrap-sass', '3.3.7'
 gem 'bcrypt',         '3.1.12'
 gem 'faker',          '1.7.3'
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 gem 'rails-controller-testing'
 
 # Use SCSS for stylesheets
